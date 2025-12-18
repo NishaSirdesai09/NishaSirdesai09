@@ -172,7 +172,7 @@ Whether you want to discuss LLM optimization, microservices architecture, or the
 
 **"The best code is no code at all. The second best is code that solves real problems."**
 
-⭐️ From [nishasirdesai](https://github.com/nishasirdesai) | Open to opportunities & collaborations!
+⭐️ From [NishaSirdesai09](https://github.com/NishaSirdesai09) | Open to opportunities & collaborations!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nishasirdesai&color=blueviolet&style=for-the-badge)
 
