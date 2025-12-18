@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer who bridges the gap between robust backend systems and cutting-edge AI. Currently pursuing my Master's in Information Systems at **Northeastern University** while building production-grade applications at **LendBuzz** and conducting AI research at **Northeastern's AI Hub**.
+I'm a Software Engineer who bridges the gap between robust backend systems and cutting-edge AI. Currently pursuing my Master's in Information Systems at **Northeastern University** while building production-grade applications at **LendBuzz** and conducting AI research at ** DMSB AI Strategic Hub**.
 
 ```typescript
 const nisha = {
