@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Nisha 👋
 
-<!--
-**NishaSirdesai09/NishaSirdesai09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer building AI-powered products and scalable web systems. I enjoy working at the intersection of frontend, backend, and applied AI — turning complex ideas into clean, usable tools.
 
-Here are some ideas to get you started:
+### What I work on
+- AI-driven applications using LLMs, RAG pipelines, and real-time inference
+- Full-stack systems with React, TypeScript, Java, Spring Boot, and Python
+- Developer tools, internal platforms, and learning systems
+- Performance-focused frontend interfaces and scalable APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience & focus
+- Building and shipping production-ready AI systems used by students and teams
+- Designing clean system architectures with authentication, role-based access, and observability
+- Strong interest in frontend performance, UX clarity, and end-to-end ownership
+
+### Tech I use often
+**Frontend:** React, TypeScript, Vite, Redux, MUI  
+**Backend:** Java (Spring Boot), Python (FastAPI), Node.js  
+**AI / Data:** LLM APIs, RAG, vector databases  
+**Infra:** Docker, CI/CD, cloud deployments  
+**Databases:** MongoDB, MySQL, PostgreSQL
+
+### Current interests
+- Applied AI in real products  
+- Frontend performance and design systems  
+- Developer experience and tooling  
+- Building things that scale and last
+
+📫 Reach me:
+- GitHub: @NishaSirDesai09  
+- LinkedIn: (add your LinkedIn URL)
