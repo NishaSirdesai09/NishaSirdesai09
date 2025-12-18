@@ -104,9 +104,9 @@ const nisha = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishasirdesai&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishaSirdesai09&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishasirdesai&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishaSirdesai09&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
 </div>
 
