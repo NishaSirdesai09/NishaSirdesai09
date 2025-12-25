@@ -117,7 +117,7 @@ const nisha = {
 **🔧 LendBuzz** | Software Engineering Co-op | *Jan 2025 - Aug 2025*
 - Building next-gen financial systems with Spring Boot, Next.js, and AI-powered automation
 
-**🔬 Northeastern University** | Research Assistant | *Oct 2024 - Present*
+**🔬 Northeastern University** | Research Assistant | *Oct 2024 - Dec 2024; Sept 2025 - Dec 2025*
 - Deploying cutting-edge LLMs on NVIDIA GPUs for real-time educational applications
 
 **💼 NTT Data Services** | IT Senior Associate | *Jul 2021 - Aug 2023*
